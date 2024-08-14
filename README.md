@@ -1,3 +1,8 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsaleonhard%2Fmestredosbots_novospupilos&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/56c16b3d-37d3-498f-849b-1932b37069bb" alt="Descrição da Imagem" width="900" height="auto" />
+</p>
+
 # 🧙‍Mestre Dos Bots - Saudação Mágica para Novos Seguidores
 
 ## Descrição
@@ -45,6 +50,15 @@ O número atual de seguidores e o último usuário seguido são armazenados em u
 
 - O bot compara o número atual de seguidores com o último número registrado e, se houver novos seguidores, envia uma mensagem personalizada a cada novo seguidor.
 - As mensagens variam de acordo com um número aleatório, designando ao novo seguidor uma classe fictícia relacionada aos personagens do desenho animado 'Caverna do Dragão', como Sheila, Bobby, Presto, Diana, Eric, ou Hank. Cada personagem é representado por um GIF exclusivo, tornando a saudação ainda mais divertida e personalizada.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b4426e4f-27e2-43ef-9969-6764f6f0a246" alt="1" width="200" height="200" />
+  <img src="https://github.com/user-attachments/assets/aead142e-e575-4de7-9203-cdace21e25d5" alt="5" width="200" height="200" />
+  <img src="https://github.com/user-attachments/assets/8f0221fe-5833-4a53-a397-bdb6af361146" alt="4" width="200" height="200" />
+  <img src="https://github.com/user-attachments/assets/ffbeec73-cf0a-4926-a07d-61d479fbf4d8" alt="3" width="200" height="200" />
+  <img src="https://github.com/user-attachments/assets/fc473229-0d49-4df9-8ba5-bca2a379e700" alt="2" width="200" height="200" />
+  <img src="https://github.com/user-attachments/assets/834131b4-2671-403b-b43e-602473961a1d" alt="6" width="200" height="200" />
+</p>
 
 
 ### Atualização de Dados
